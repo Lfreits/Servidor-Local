@@ -64,6 +64,10 @@ body {
     gap: 2vh;
 }
 
+.botoes:hover {
+    cursor: pointer;
+}
+
 .botoes-estoque {
     display: flex;
     flex-direction: column;
@@ -71,6 +75,11 @@ body {
     align-items: center;
     gap: 3vh;
 }
+
+.botoes-estoque:hover {
+    cursor: pointer;
+}
+
 .menu-item2 {
     background: none;
     border: none;
