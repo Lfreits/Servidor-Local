@@ -49,6 +49,10 @@ body {
     font-size: 4vh;
 }
 
+.menu-item:hover {
+    cursor:pointer;
+}
+
 #ola {
     position: absolute;
     right: 4vh;
@@ -64,10 +68,6 @@ body {
     gap: 2vh;
 }
 
-.botoes:hover {
-    cursor: pointer;
-}
-
 .botoes-estoque {
     display: flex;
     flex-direction: column;
@@ -76,15 +76,15 @@ body {
     gap: 3vh;
 }
 
-.botoes-estoque:hover {
-    cursor: pointer;
-}
-
 .menu-item2 {
     background: none;
     border: none;
     color: var(--corTexto);
     font-size: 3vh;
+}
+
+.menu-item2:hover {
+    cursor:pointer;
 }
 
 .linha {
