@@ -1,0 +1,1 @@
+Esse é um trabalho para faculdade no qual estamos criando um sistema de estoque para uma organização que doa roupas. Estamos utilizando Python para criar um servidor local e pretendemos utilizar SQLite para criar um SGBD dentro do sistema.
